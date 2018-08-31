@@ -1,0 +1,148 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5C49268F-B5A8-4BDA-B8A5-F4234AA33515",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "64F559D1-6A8B-4190-947A-F81B4C11F762",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD7B3659-B963-414A-8E9E-3BAB94641151",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B59A3A2-7D56-45A0-A452-B273A0F16065",
+    "height": 1151,
+    "width": 1366,
+    "x": -6332,
+    "y": 438
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "1A6CB333-F565-4419-B93D-2341B3D08DE4",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6B0EE4DF-EA26-4E81-87C0-D373748A56A8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2B502E6D-727F-46C3-8EA9-394514FEEAF8"
+    },
+    {
+      "class": "group",
+      "id": "A3036E6A-9DF6-410A-9BED-738C095C75E4"
+    },
+    {
+      "class": "group",
+      "id": "87C9D583-72F8-464C-9BFB-12CE608698CE"
+    },
+    {
+      "class": "group",
+      "id": "64D31315-0644-4EA2-9443-6E81F7C23669"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6833A0C-DC2A-4A82-98F4-9870C7E0C4A8"
+    },
+    {
+      "class": "group",
+      "id": "44270C28-9E38-4ACC-8DB6-A9651B7C10EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "226278E5-B128-449C-8264-05BE00F3D744"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "374C3197-2043-4196-90DE-C36F6481E335"
+    },
+    {
+      "class": "group",
+      "id": "F70895BF-625A-4CC3-8B46-F8F4CD74B7B5"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "2F975BDC-B69E-44AD-818D-4DAA86DD2FA9",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 83,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "Profile Company Editing",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D698BDC-5951-45B9-9ADC-D3D6814C9B5B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4C71D059-791C-4B90-BFD4-7284A2E9DF1D",
+    "guides": [
+    ]
+  }
+}

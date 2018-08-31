@@ -1,0 +1,69 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "5FDBB3E3-2680-4E4D-8BAA-A53FF1B620D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "719C7D1C-51E0-436E-9E44-82DBE8FCC57A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A56DE67A-12A5-4FDB-AE54-3FBA3814AE00",
+    "height": 63.20000000000001,
+    "width": 64,
+    "x": 16,
+    "y": 16
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/af47200766321746b9d61b05f0712af182f2f613",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Xilo Small",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "095AA6E9-3DEC-4EDB-AD59-B134FFC443CF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 63.2,
+            "enabled": 1,
+            "modelID": "constraint_5c70c5e4-3b9b-4022-85b2-6d44b8060c81",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 64
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b1a32a8e-8106-4900-988c-148f8b40882b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

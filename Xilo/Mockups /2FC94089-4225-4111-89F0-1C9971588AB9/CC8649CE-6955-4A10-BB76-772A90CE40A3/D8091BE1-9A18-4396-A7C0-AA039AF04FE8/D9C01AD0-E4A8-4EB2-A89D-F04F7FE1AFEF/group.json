@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "D9C01AD0-E4A8-4EB2-A89D-F04F7FE1AFEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF28FCFE-6867-463E-AD03-FFFBFCD503F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1ED4B142-338F-4817-96E6-A08D71FC37EC",
+    "height": 208,
+    "width": 481,
+    "x": 67.8523429806285,
+    "y": 50.13752403118094
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E090C855-ED18-439E-B2B3-142D7E6295BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67AAB000-DD37-46C2-938C-5E11656CE503"
+    }
+  ],
+  "name": "Graphs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "930E8662-0D90-43A4-9592-19E0F0CD0319",
+      "opacity": 0.8359375
+    },
+    "do_objectID": "277C75E8-F5A0-44ED-8FB3-2D9E8D411F7C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

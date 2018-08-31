@@ -1,0 +1,116 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 77,
+  "do_objectID": "60143732-C163-435B-809C-E2DBF389155B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 824,
+    "x": 4645,
+    "y": -196
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B047F594-8248-41EB-87BC-A5994FB16FF5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C11DDCAA-6587-49AB-8DCD-A4FD9E010B23"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8CB1DEFE-D49B-4147-AF1D-52924A3712CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6775EC2-A1A5-46E4-8F48-223D078DCB51"
+    },
+    {
+      "class": "text",
+      "id": "637B4258-CD05-439A-B4A8-2E4E9C99E851"
+    },
+    {
+      "class": "text",
+      "id": "D5754F24-98A2-4BA6-8A53-DDA983D005B2"
+    },
+    {
+      "class": "text",
+      "id": "FC4437BD-E5A1-4D67-BFE7-CF6162D76B67"
+    },
+    {
+      "class": "text",
+      "id": "EB63D59B-22D6-43B1-85D8-27B235252DB5"
+    },
+    {
+      "class": "text",
+      "id": "A3557089-6184-4147-8056-EF8645F025E6"
+    },
+    {
+      "class": "text",
+      "id": "FC8655E9-664D-4F19-8C40-5150FEB8EB07"
+    },
+    {
+      "class": "text",
+      "id": "7A37F58A-9267-42C1-AA11-04F767409500"
+    },
+    {
+      "class": "text",
+      "id": "269B9A2A-B071-4407-B630-820477743C57"
+    }
+  ],
+  "name": "Button Nav",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BE09B2C5-EE3C-416B-8633-D2FDAB0F1D4A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

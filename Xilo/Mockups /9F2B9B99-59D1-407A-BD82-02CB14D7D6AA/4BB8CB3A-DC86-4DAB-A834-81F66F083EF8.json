@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4BB8CB3A-DC86-4DAB-A834-81F66F083EF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1868F6AE-9E6A-4A56-B2F5-E85BD71CEC4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "493A004C-1D3E-4FB3-B6BE-4285AA11CC01",
+    "height": 64,
+    "width": 400,
+    "x": 32,
+    "y": 292
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Text Input Activated",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B72CC57F-0915-4030-9E69-64509D8FB555",
+      "overrideName": "25277889-36E7-47B0-BD68-6056566E71E8_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B228375-C04C-4119-AA79-3626BCDD4086",
+      "overrideName": "E375308F-4B42-4E24-B5EB-407EE3CD0946_stringValue",
+      "value": "awesome@ucsd.edu"
+    }
+  ],
+  "overrides": {
+    "25277889-36E7-47B0-BD68-6056566E71E8": "Email",
+    "E375308F-4B42-4E24-B5EB-407EE3CD0946": "awesome@ucsd.edu"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "034113EC-218D-42D4-86B8-38C59C42ADAB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E20FFC33-9095-4DB8-8E15-BFC725DC3B4E",
+  "verticalSpacing": 0
+}

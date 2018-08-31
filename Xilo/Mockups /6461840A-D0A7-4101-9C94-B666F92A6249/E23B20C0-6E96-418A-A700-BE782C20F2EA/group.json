@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "E23B20C0-6E96-418A-A700-BE782C20F2EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 468,
+    "width": 167,
+    "x": 148,
+    "y": 187
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "625F7A08-9722-42A9-9F1F-8B582C6E4EF9"
+    },
+    {
+      "class": "text",
+      "id": "9E042BBC-E6C9-4DAA-BCE6-75FA7E744773"
+    },
+    {
+      "class": "text",
+      "id": "7C5DC57C-B1F0-4653-9D94-93F3F6C90AE2"
+    }
+  ],
+  "name": "Team Analytics Side Nav",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "A6B74556-515D-4EE0-8404-ACD9513898EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 213,
+    "x": 800,
+    "y": 228
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "03B6F3BB-82AF-42B3-8852-1A3F04CE61E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "637E4567-5EAA-4665-8BC0-C881301D53E5"
+    },
+    {
+      "class": "text",
+      "id": "369CCD70-5289-4AF9-8356-C78A205592F2"
+    },
+    {
+      "class": "text",
+      "id": "1C9B975E-FD46-455F-8DAE-4E4917F899C3"
+    }
+  ],
+  "name": "Legends",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

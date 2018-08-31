@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "18881530-AEA3-4C64-A9EB-E2B569574004",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B9D5CFD-32F5-438A-8F12-9B4D70832FEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2494BCF8-5582-4380-8348-86F41BE5F733",
+    "height": 160,
+    "width": 160,
+    "x": 1123,
+    "y": 256
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0CEB6C72-A87D-4A91-9998-E4B9449EA5D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "059128D3-196D-47BB-B511-3E8636A20732"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDEAF86B-770A-4DB3-8C21-83BE75C7869B"
+    },
+    {
+      "class": "text",
+      "id": "850CF65C-07BF-489A-9187-F33F9F6814F6"
+    }
+  ],
+  "name": "Avarage Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9721EE70-9FCB-4976-801F-1A038C31E36C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

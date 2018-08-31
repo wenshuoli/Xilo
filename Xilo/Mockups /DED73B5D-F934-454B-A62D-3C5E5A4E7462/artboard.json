@@ -1,0 +1,156 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E8FB90DC-E6CD-4754-956A-9A7C93D3FFDB",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DED73B5D-F934-454B-A62D-3C5E5A4E7462",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2D96E2B-2C25-463A-9C0C-011C7E6F2C4C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "705D3F7F-3AAD-4B75-B00B-D9DA9E812266",
+    "height": 768,
+    "width": 1366,
+    "x": 7263,
+    "y": 4203
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "FB46BCD6-8D19-47F4-A2EA-E5100591B636",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "885EE8FF-C43F-4222-A333-9A6411A1C181",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "120F9F14-2701-498A-9949-D89172E0FA5D"
+    },
+    {
+      "class": "group",
+      "id": "5F9635ED-9EF9-4054-9CE5-D5284C14B947"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "363040CB-0FCC-4599-972A-C34CCAFE76CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E3757B9-896A-49D0-A442-C58D41F3CBD6"
+    },
+    {
+      "class": "group",
+      "id": "FFE02C38-EBAA-4CF8-9633-051B8B24213F"
+    },
+    {
+      "class": "group",
+      "id": "0BD3296D-7F4C-46FA-803D-CF8A1B39248B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21738116-70C3-416D-86FD-D9B1516FFFDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4303BD07-1B40-40EF-B69F-F4B202284AFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68FCEE20-3D40-463C-80CC-2528B7303D61"
+    },
+    {
+      "class": "text",
+      "id": "4C6E52A5-2102-4BB9-871A-54F3C8CD3EB7"
+    },
+    {
+      "class": "group",
+      "id": "E0C20048-9A00-4D0E-A4E7-0BE279052697"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "95804F74-0F66-4B07-8306-4DE40901BA1D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 83,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "Analytics Marketing Vehicles",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4AFA0C3-17C3-4217-A7B0-52CD2260CAE4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE56EE62-E94B-4BDE-A084-1B62479D324B",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EC984F36-7499-4B98-A926-5055A617E59E",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "892400B5-175C-4F2E-B7F4-2343CD8ED1FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B957024-E3A3-4888-824D-A1B597299FC8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68F0B617-AFD3-43A5-8A5C-13EEFDD68A00",
+    "height": 768,
+    "width": 1366,
+    "x": 7263,
+    "y": 1625
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "8F9A301E-65EC-4676-98C2-34829FF4CA79",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A9309676-8D22-4322-A972-CA814848A8AA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA32E840-E550-4E67-92C1-FF47429021EB"
+    },
+    {
+      "class": "group",
+      "id": "08CBB78E-3603-42B3-A97F-AA4997A7BA73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0CC52E5-93A2-4DA7-A74E-02180433399D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "69AB7795-714E-490F-88E1-64A12F4F47CE"
+    },
+    {
+      "class": "group",
+      "id": "04F3A153-D293-4F87-8008-7E8B433DB060"
+    },
+    {
+      "class": "group",
+      "id": "3CA04A58-DC33-4A69-93EC-B3AD3BD68954"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78BC1551-16EA-4A74-89D9-67BFCE2E52C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF1661A4-C67D-48AB-959F-A407F9542957"
+    },
+    {
+      "class": "group",
+      "id": "620F7571-1916-4D7E-BCD3-DD52E1CD08A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CA5AAA0-EA80-4A5F-A52C-74C554F45C40"
+    },
+    {
+      "class": "text",
+      "id": "43FCA05E-B085-4FEC-B095-C6DF8452E314"
+    },
+    {
+      "class": "text",
+      "id": "29CB495B-162D-440F-B6D3-0629C88D5285"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "6D5EE0DA-5308-4392-8427-CD8A92FCFD2B",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 83,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "Analytics Marketing Prior Length",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AECC8FAA-6098-41F1-8E9C-93565AFA1418",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "55540BEE-D01F-4144-9C45-CC18959BF5F9",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ECAD3A13-AEBC-4695-AE99-AB555A7CA258",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88794A40-7C17-4A53-A2B2-C4D75B87C894",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5054F121-8E3C-4B6C-9352-47D83975BE5B",
+    "height": 27,
+    "width": 299,
+    "x": 411,
+    "y": 172
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Analytics / Team / Time Selection",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E502E9B-5782-4E96-9F10-6BE005D6E509",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A7458223-397E-4C18-BDEB-4BB548D99C36",
+  "verticalSpacing": 0
+}

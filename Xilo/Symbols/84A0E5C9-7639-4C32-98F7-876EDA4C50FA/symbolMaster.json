@@ -1,0 +1,86 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8E8C7480-0A27-4552-934F-B438F35910AC",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 585,
+  "do_objectID": "84A0E5C9-7639-4C32-98F7-876EDA4C50FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B67E543-3F33-4C07-AA6B-2025CCFD72E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30E51536-164D-4799-99B2-3B9208793CFE",
+    "height": 473,
+    "width": 245,
+    "x": 2889,
+    "y": 323
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B27CB0D7-94BF-4123-8338-C5A860BE8379",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4D57AF7F-EFA3-432D-AA26-B44303018365"
+    },
+    {
+      "class": "text",
+      "id": "5100B68B-0D25-4EE2-925A-44778930859B"
+    },
+    {
+      "class": "text",
+      "id": "8728A279-A038-4997-9FDF-FE69311DA88D"
+    }
+  ],
+  "name": "Analytics / Marketing / Side Nav",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62BC4CBD-52F6-4FF3-955C-D80AE403CCC0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CDDDA697-C123-48C7-BCCC-97BAA41971C9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "580E9AED-1F2B-4759-80D8-5A530F6CA8B0",
+    "guides": [
+    ]
+  }
+}

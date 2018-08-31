@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "2771D6DA-889F-4D00-BEB7-8605AA5574BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BA74EBE-86B2-4020-A6FD-7CFAEFE6C872",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9BB8D68F-0AD4-4E2D-AA28-90F22EB98E0D",
+    "height": 51,
+    "width": 38,
+    "x": 29,
+    "y": 264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C1B4A75C-2AC1-4050-81E2-BA48815A6007"
+    },
+    {
+      "class": "text",
+      "id": "2C7A5FB5-5A6A-4EAB-A40B-66F36A6BC945"
+    }
+  ],
+  "name": "Clients Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7B732964-6AD1-442F-BBA8-5EB850183046",
+      "opacity": 0.8
+    },
+    "do_objectID": "9BBFA639-512C-404E-9622-C58F23DAF534",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 51,
+            "enabled": 1,
+            "modelID": "constraint_674d37c0-2a45-4af0-9270-25c875d91c5d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 38
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c5506465-f2d4-4f60-81b8-5c01bb066860",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

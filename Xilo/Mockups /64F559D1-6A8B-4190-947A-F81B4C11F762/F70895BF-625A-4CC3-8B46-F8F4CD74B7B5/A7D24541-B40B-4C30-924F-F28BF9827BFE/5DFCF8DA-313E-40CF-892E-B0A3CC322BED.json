@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5DFCF8DA-313E-40CF-892E-B0A3CC322BED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "046A46C8-9459-4547-9B9D-CBCDAE459A1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DA18984-EE36-4571-B503-5A7862060057",
+    "height": 48,
+    "width": 80,
+    "x": 402,
+    "y": 128
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Filled Text Input  Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "79407F0A-EE15-492B-97AD-0CE6F6668D6B_stringValue",
+      "value": "92092"
+    }
+  ],
+  "overrides": {
+    "79407F0A-EE15-492B-97AD-0CE6F6668D6B": "92092"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "888734E3-705B-49D0-A71D-4FA5A82F3D3F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EA1253BE-1458-468C-A64F-AC1E3B16B9CE",
+  "verticalSpacing": 0
+}

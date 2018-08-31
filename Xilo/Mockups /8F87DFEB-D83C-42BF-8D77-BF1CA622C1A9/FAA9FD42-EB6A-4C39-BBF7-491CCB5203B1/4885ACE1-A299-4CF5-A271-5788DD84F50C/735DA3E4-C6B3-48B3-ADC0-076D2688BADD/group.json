@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "735DA3E4-C6B3-48B3-ADC0-076D2688BADD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAE5F35A-A242-4282-92E0-F81D6CF2814E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD4C010A-D11C-4FEE-AB4E-FF200EF96C3D",
+    "height": 306,
+    "width": 679,
+    "x": 71.21055102672982,
+    "y": 49.85553300282182
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8821DD76-DCDC-407E-AF5F-F61684B53659"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1DF3ED05-F00B-4216-AF0A-6909370788EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B57F6F8D-0C7D-40A0-B8B0-CB24092D79C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "822CAA14-7EB3-455C-81F8-787DAFD0927F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "416F723F-DDB3-43B0-8F7E-846B740FC859"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0FF0887F-A6BD-47A0-ADE0-E5C4D898AFA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "462FCBC9-BA7F-49A1-86E8-921011C9BF06"
+    }
+  ],
+  "name": "Graphs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D0D5ADDE-711B-4CE9-8B17-5DC5127D8B38",
+      "opacity": 0.8359375
+    },
+    "do_objectID": "7EF5FF8D-A935-4485-A875-B63BBD93DAAC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

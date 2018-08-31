@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A06FA860-9D48-4F55-931F-6D55BE426D43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B501D655-DF1B-419A-97C6-81044DC03C97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D254E29-2BBA-4F97-BF17-A4360F9AC134",
+    "height": 404,
+    "width": 145,
+    "x": 148,
+    "y": 187
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team Analytics Side Nav",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9FA0185-EDE1-4A2B-B970-BAA5FFECAED1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F1F1F1B7-8C91-40F9-AF87-2D01DE7907C1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "CB076AB1-D365-4E3D-98BF-2247F6AB6007",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7985DFF4-EF81-4AF6-9FD0-90CD50BC0F12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7599C2FE-1CFA-4B1F-AF59-E7A5D3895857",
+    "height": 49,
+    "width": 49,
+    "x": 26,
+    "y": 432
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "64DD24DB-821E-4EBC-A38E-05CCF4561C9E"
+    },
+    {
+      "class": "text",
+      "id": "82B3870D-3C0E-4F8F-BD29-A91A91F1C416"
+    }
+  ],
+  "name": "Analytics Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "2B3F9591-46D6-4A13-82E4-7AFF3369096D",
+      "opacity": 0.8
+    },
+    "do_objectID": "F66B8E5C-6D45-4BB6-A476-30754B5E9600",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 49,
+            "enabled": 1,
+            "modelID": "constraint_bc81d9d8-cfbe-47b7-ac43-67c4dbd03418",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 49
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e194d5b4-ad25-43ff-b62c-846e68fccc4b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

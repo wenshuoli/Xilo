@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "076E1DC2-2FDC-48DD-A919-AC4D6C71602E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2CA79A07-5EEA-41EE-B127-EC69C71054C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7222013C-87EE-4F47-B1FD-AE2A10FF8399",
+    "height": 40,
+    "width": 160,
+    "x": 264,
+    "y": 404
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Primary Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38333EDF-431A-47C6-B213-278052C9C18E",
+      "overrideName": "46E17D68-468E-459A-A465-D3B40931AE56_stringValue",
+      "value": "Change Logo"
+    }
+  ],
+  "overrides": {
+    "46E17D68-468E-459A-A465-D3B40931AE56": "Change Logo"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77DA6BA0-CAF9-471D-8820-3F99C91A2F5F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BD3FF2AA-5FA7-4B83-8798-245D06D36A43",
+  "verticalSpacing": 0
+}

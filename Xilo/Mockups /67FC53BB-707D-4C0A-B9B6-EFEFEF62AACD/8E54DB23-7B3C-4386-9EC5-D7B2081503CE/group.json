@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "8E54DB23-7B3C-4386-9EC5-D7B2081503CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "826BA05D-E7AF-4129-B9AB-FE31ABAA38FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A10A2D4A-8515-421E-9CB4-5A9882DE7C00",
+    "height": 32,
+    "width": 159,
+    "x": 1177,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DFF1FAC0-3517-4EBA-8B23-64FF8F9866A7"
+    },
+    {
+      "class": "text",
+      "id": "940A8B9C-2749-4996-BCD1-A1A16A6E6A2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "659568DA-D68C-48FF-94EE-6887CBF8D51A"
+    }
+  ],
+  "name": "Top Right Profile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE933058-BEE1-4C96-9292-342731A5C621",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

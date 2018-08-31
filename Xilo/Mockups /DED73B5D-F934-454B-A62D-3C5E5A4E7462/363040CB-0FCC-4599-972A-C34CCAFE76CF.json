@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "363040CB-0FCC-4599-972A-C34CCAFE76CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EDED8C6-226A-40A6-866E-A1912767BE2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "198AE880-7D24-4585-AFA1-601428B61ABB",
+    "height": 101,
+    "width": 888,
+    "x": 148,
+    "y": 22
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Analytics Headers",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA45817C-717D-4369-B122-606412A70E37",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "10111CD2-308B-43C1-9B3E-DDC7CFA9414B",
+  "verticalSpacing": 0
+}
