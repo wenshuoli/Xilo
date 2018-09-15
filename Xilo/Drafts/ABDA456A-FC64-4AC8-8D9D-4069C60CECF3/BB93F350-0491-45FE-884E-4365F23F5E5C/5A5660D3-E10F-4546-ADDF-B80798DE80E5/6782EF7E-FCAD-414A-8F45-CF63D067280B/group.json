@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6782EF7E-FCAD-414A-8F45-CF63D067280B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E35BF2E1-7E16-49D9-BFD4-D354A4F3D9AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC773662-223D-4B55-9A55-FBE4EEF7CADE",
+    "height": 208,
+    "width": 481,
+    "x": 67.8523429806285,
+    "y": 50.13752403118094
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "648532A2-CC6C-4DAC-B0DF-5C93710A5CD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B057A65D-A26D-4467-A84B-17079646C5C1"
+    }
+  ],
+  "name": "Graphs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4E7FFAF9-C81C-4057-9E29-570936A348F3",
+      "opacity": 0.8359375
+    },
+    "do_objectID": "FC4565B8-6925-4B61-9EC1-EDDD04D3F28B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

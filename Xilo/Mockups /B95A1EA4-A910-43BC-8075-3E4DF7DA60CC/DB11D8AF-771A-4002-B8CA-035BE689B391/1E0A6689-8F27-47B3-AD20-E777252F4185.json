@@ -1,5 +1,6 @@
 {
   "_class": "bitmap",
+  "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "do_objectID": "1E0A6689-8F27-47B3-AD20-E777252F4185",
   "exportOptions": {
@@ -24,9 +25,11 @@
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/af47200766321746b9d61b05f0712af182f2f613",
+    "_ref": "images/af47200766321746b9d61b05f0712af182f2f613.png",
     "_ref_class": "MSImageData"
   },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -41,9 +44,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "49FB7259-1386-480E-BEAE-D88E1740C254",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

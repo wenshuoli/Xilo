@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "28586891-8A5F-4832-AD92-818B95E80AA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58C80C99-F753-4072-8472-413008D5D9D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F0C8C88E-E7B1-4C1D-9B66-843169CC0371",
+    "height": 272,
+    "width": 419,
+    "x": 807,
+    "y": 324
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/0351d36696c12e491fd58cd0913161dcebdf7466.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Analytics Team Sold",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1395841-9590-47B7-86F7-C1E10E7C4339",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

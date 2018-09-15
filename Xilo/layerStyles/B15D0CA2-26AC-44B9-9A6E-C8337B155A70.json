@@ -4,7 +4,7 @@
   "name": "Sketch Measure / Property",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -25,6 +25,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "B15D0CA2-26AC-44B9-9A6E-C8337B155A70",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

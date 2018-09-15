@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "655145B7-0B43-4CC9-BFBB-7CCFB1335BDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C460754B-550A-49AC-91BB-473F6C8F7525",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F267688E-4B73-42E8-9ABD-6B43FFB9A56C",
+    "height": 6,
+    "width": 327,
+    "x": 61.90695484064851,
+    "y": 193.1039026043395
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD5E4A93-E69C-428F-8882-8F472D1938DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F6E35E1-8E0E-489D-ACB5-0A28E5A8C7F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1DF4BCF7-199B-4FAC-AB5F-5AFCBA10BB38"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6DA781F-D215-43D3-B6B6-F5B09C5A77BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "902469C3-54E2-4C0E-8A22-37B73028BCDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0E5B1E3-460D-4019-B513-9054A0901A11"
+    }
+  ],
+  "name": "lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E9AA0C1D-15CB-4872-8F12-A40ADA29E37E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4,
+      "type": 0
+    },
+    "do_objectID": "01DB0C87-D57D-44E0-85ED-1FF7E6EEA79E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

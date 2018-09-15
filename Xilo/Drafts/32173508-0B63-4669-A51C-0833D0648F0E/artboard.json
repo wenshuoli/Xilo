@@ -1,0 +1,167 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A101DCB0-B25B-47B6-B3AC-528B7DF87842",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "32173508-0B63-4669-A51C-0833D0648F0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B35C3E20-05C8-419C-9C6B-777A51FC0292",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9B3CD5A-3027-4EBB-8D12-35FA41744FF1",
+    "height": 888,
+    "width": 1366,
+    "x": 2451,
+    "y": -722
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "844369C5-E60B-4F1A-9FF2-EC043166E648",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E01833C-4E5F-49AC-B042-6610FD0A1027",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1DE624F3-B6BA-4F07-A3B6-80A33D9E0D68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2F4F5DD-8C63-4BD3-A989-CB1C2302766B"
+    },
+    {
+      "class": "group",
+      "id": "1DBA4BA0-47BA-4303-A6F6-6C2BC40112FB"
+    },
+    {
+      "class": "group",
+      "id": "8F1D13F8-38F2-4608-ACDD-7A326A735028"
+    },
+    {
+      "class": "group",
+      "id": "1899EEAF-719B-41D1-8D01-FC8F328970BE"
+    },
+    {
+      "class": "text",
+      "id": "2786649A-3EB5-4B2D-AFCB-4337A2F019D8"
+    },
+    {
+      "class": "text",
+      "id": "67194044-CF02-4EC4-B6E2-EC207313FF3F"
+    },
+    {
+      "class": "text",
+      "id": "4D2BFF81-B6DE-4554-A8F6-63A6BAE5A674"
+    },
+    {
+      "class": "group",
+      "id": "77623754-504A-44F0-803E-1C4128175D0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "363A1F00-79A5-4565-A458-D9130512D343"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D42A295-9B60-4212-BCBB-E6950D88B74F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CF94A1E-1F2D-4BBF-98D3-FF8F1F9E009D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA8FE5B0-A5C1-4288-BF0A-504EA3950D6C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "F678C17B-6CF6-42FE-837F-5CBD0C82238A",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 83,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "Analytics Team Leads",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "739B7961-5895-45C8-AF1C-95E2BD655A69",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EE1CC8EE-506E-4131-AB93-126E5E76D31D",
+    "guides": [
+    ]
+  }
+}

@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "88EABC34-9C26-4AD2-949B-8205D22FF894",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "y": 0
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -36,9 +38,6 @@
       "value": "elidanz@atozinsuranceonline.net"
     }
   ],
-  "overrides": {
-    "79407F0A-EE15-492B-97AD-0CE6F6668D6B": "elidanz@atozinsuranceonline.net"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,9 +46,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "A0008DA0-E145-46D9-B26A-DE034DC0AF15",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "EA1253BE-1458-468C-A64F-AC1E3B16B9CE",
   "verticalSpacing": 0

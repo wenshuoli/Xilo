@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "F0D673E4-6FCA-4613-9477-069D67A7A716",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "y": 404
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -36,9 +38,6 @@
       "value": "Change Brand Color"
     }
   ],
-  "overrides": {
-    "46E17D68-468E-459A-A465-D3B40931AE56": "Change Brand Color"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,9 +46,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "85E09758-78AE-4C5E-8744-9B2B309AE5B1",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "BD3FF2AA-5FA7-4B83-8798-245D06D36A43",
   "verticalSpacing": 0

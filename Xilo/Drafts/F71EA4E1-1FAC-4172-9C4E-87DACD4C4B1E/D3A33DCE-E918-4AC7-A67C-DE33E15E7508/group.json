@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "D3A33DCE-E918-4AC7-A67C-DE33E15E7508",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B818B9D3-4EB8-4E07-9B01-B79431C4A3BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECA2849D-714B-4F94-8F34-BB40DC97E1B0",
+    "height": 160,
+    "width": 160,
+    "x": 827,
+    "y": 256
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7DBF5B7A-1354-4DDC-A77F-4A307D82F6E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21C2F2A9-C47A-4556-930F-DC7383718AFF"
+    },
+    {
+      "class": "text",
+      "id": "65C8DD1B-2614-4EFE-BCA5-C269E041CEF6"
+    }
+  ],
+  "name": "Avarage",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2668E72-F6AA-453F-B0A9-793BDC592F5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

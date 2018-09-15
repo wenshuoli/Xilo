@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3208555E-A708-40BF-A239-A6849C215C8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "267A2059-9693-448D-B304-ED97226ED2D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EB4F444-9404-441C-89E7-70C40EC6290F",
+    "height": 160,
+    "width": 160,
+    "x": 1123,
+    "y": 507
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "541B68C5-52BA-4B49-8C9C-3215A7E362B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27656BD8-81DE-409E-B73C-62EAD36E1C5F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93B773AC-2B91-49B0-A94D-8DFE40893C7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F88342A-68A8-421A-B98E-07E22DD0B457"
+    },
+    {
+      "class": "text",
+      "id": "0058E27E-2332-491F-9A30-A53C889556DD"
+    }
+  ],
+  "name": "Avarage Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F9F099C0-F465-421A-85B2-35381CAE0E29",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8EF28194-B366-4DDF-822A-83F4B0A2A4E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FCF6964-FCB2-4F7A-B6C4-011FEF8E2A7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4BFF8A3-F5C2-4A47-A0C3-B3DA928B07BC",
+    "height": 649,
+    "width": 427,
+    "x": 909,
+    "y": 185
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D7B276E2-DC0E-4ACC-BFBF-7DF44341D877"
+    },
+    {
+      "class": "group",
+      "id": "B5DD65C5-670F-43B3-B138-C6F25EFB6633"
+    }
+  ],
+  "name": "Leader Board",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D71768A0-D441-4DDE-9F23-99CA6A815C40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

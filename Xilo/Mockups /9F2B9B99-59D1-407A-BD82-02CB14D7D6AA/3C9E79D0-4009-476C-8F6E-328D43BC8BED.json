@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "3C9E79D0-4009-476C-8F6E-328D43BC8BED",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "y": 540
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -36,9 +38,6 @@
       "value": "Sign Up"
     }
   ],
-  "overrides": {
-    "9114A03C-7585-4F93-99AE-72E90FADF0C5": "Sign Up"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,9 +46,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "EA93C12C-482F-42C4-BA54-022634B77A37",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "9AEB76F6-BA00-4A77-AE22-6C7C769FC055",
   "verticalSpacing": 0

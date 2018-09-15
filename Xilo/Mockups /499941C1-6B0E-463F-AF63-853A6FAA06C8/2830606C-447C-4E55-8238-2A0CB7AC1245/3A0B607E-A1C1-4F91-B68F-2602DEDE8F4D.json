@@ -1,0 +1,183 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Lato-Bold",
+              "size": 24
+            }
+          },
+          "kerning": -0.2916668,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 4,
+        "location": 0
+      }
+    ],
+    "string": "Xilo"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "do_objectID": "3A0B607E-A1C1-4F91-B68F-2602DEDE8F4D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B389087D-FF38-4462-BA72-244D1BA3E84B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "708E9488-4DFF-498A-A34E-A1ED14BAE02D",
+    "height": 29,
+    "width": 42,
+    "x": 27,
+    "y": 87
+  },
+  "glyphBounds": "{{0, 6}, {42, 19}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Xilo",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB4726BB-C3EC-49DD-AAC2-FE18FA1A52B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "71E10F1E-210F-43DC-9F5E-7ED517DBDB14",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Lato-Bold",
+            "size": 24
+          }
+        },
+        "kerning": -0.2916668,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "hasMigrated": 1,
+        "photoActions": [
+          {
+            "category": "Beach",
+            "icon": "sun",
+            "index": 0,
+            "mode": "unsplash",
+            "title": "Beach"
+          },
+          {
+            "category": "Kids",
+            "icon": "smile",
+            "index": 1,
+            "mode": "unsplash",
+            "title": "Kids"
+          },
+          {
+            "category": "Nature",
+            "icon": "leaf",
+            "index": 2,
+            "mode": "unsplash",
+            "title": "Nature"
+          }
+        ],
+        "showedChangelogVersion": "1.0.18",
+        "typeActions": [
+          {
+            "id": "names",
+            "index": 0
+          },
+          {
+            "id": "headline",
+            "index": 1
+          },
+          {
+            "id": "article",
+            "index": 2
+          },
+          {
+            "id": "date",
+            "index": 3
+          },
+          {
+            "id": "currency",
+            "index": 4
+          },
+          {
+            "id": "email",
+            "index": 5
+          },
+          {
+            "id": "country",
+            "index": 6
+          },
+          {
+            "id": "city",
+            "index": 7
+          },
+          {
+            "id": "address",
+            "index": 8
+          }
+        ]
+      }
+    }
+  }
+}

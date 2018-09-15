@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "ACA4F98C-25A4-4FDC-B6AB-4A9077C39465",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5AC50BF-6495-4537-AF88-10CA19FECB4C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "33088F78-20EC-4F54-8A6F-BECF449E70CE",
+    "height": 49,
+    "width": 49,
+    "x": 26,
+    "y": 432
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BAC2DD25-1267-4E12-87D2-939DF730ECEE"
+    },
+    {
+      "class": "text",
+      "id": "2069EF78-44E6-42AE-975C-1CDD2F142485"
+    }
+  ],
+  "name": "Analytics Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6F0D936E-60BC-4E3F-9E06-773180309514",
+      "opacity": 0.8
+    },
+    "do_objectID": "ACF50D47-9B8C-4544-A590-BC30BD122936",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "12AEBE31-2643-49B2-84B0-0CC48FDEFF2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FC88786-088D-4467-B12C-861CA4495EA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "71C891DF-68A1-469A-8022-049F8AA36892",
+    "height": 226,
+    "width": 451,
+    "x": 885,
+    "y": 506
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9DAF39B4-F6B4-415A-8F8C-5B8C098C806E"
+    }
+  ],
+  "name": "Graph Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4D3C2507-E224-4691-BC72-82D76ADB8975",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4,
+      "type": 0
+    },
+    "do_objectID": "D7ECFD4D-88A7-4697-A917-9351D0EB72DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 228,
+            "enabled": 1,
+            "modelID": "constraint_2e2a720a-d0e7-47a8-a1b5-d445584ebdd0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 451.3231
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_083e5940-051a-4d4f-8958-327696d2505f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

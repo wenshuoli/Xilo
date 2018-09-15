@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "39A7D2B6-7127-4B35-9F00-F012C17D8B25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1FA0A11-5810-4029-887D-07DAEA174C3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC96EE3F-BE34-4722-8061-06979899B0B9",
+    "height": 64,
+    "width": 601,
+    "x": 412,
+    "y": 613
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Nav",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A5D357C-4738-4B3F-BBEF-3FE1976BE9B4",
+      "overrideName": "E3191DB6-4954-45AE-9427-15B3C81CAC49_stringValue",
+      "value": "May"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BA88F06-9034-48BE-83BC-7E87BE17948A",
+      "overrideName": "D59B1762-65F2-4901-ADA9-4D5F54AD8AB2_stringValue",
+      "value": "Apr"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B7B3B6E-2101-4911-9AFA-DFF499349BDC",
+      "overrideName": "AB5222D1-2A66-42FF-9BD3-589C5F6BC196_stringValue",
+      "value": "July"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F937BB9-BBB2-470D-9410-B9E1B8AC6B4C",
+      "overrideName": "CDDD2F92-6E5A-477D-A352-117BB5555BEF_stringValue",
+      "value": "June"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8630BCA5-7167-4BA1-B218-4D13072D2B5D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8968F5A8-C6FF-48FD-91AD-C803F49F9926",
+  "verticalSpacing": 0
+}

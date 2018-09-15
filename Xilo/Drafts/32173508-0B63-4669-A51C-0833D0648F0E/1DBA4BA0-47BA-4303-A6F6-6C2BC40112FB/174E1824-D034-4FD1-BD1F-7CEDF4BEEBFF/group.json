@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "174E1824-D034-4FD1-BD1F-7CEDF4BEEBFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BA5B80F-3FD3-491F-8377-F4BC6A99911F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F7987FB3-71B3-4C3C-8A45-BC7D34DF71CA",
+    "height": 55,
+    "width": 40,
+    "x": 28,
+    "y": 172
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D4A8767E-197B-411B-82A6-B608277067A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA93B050-D403-4A62-A92A-60715857140F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0F032CF-E948-4450-9022-37F140AEBCA5"
+    },
+    {
+      "class": "text",
+      "id": "AF76AA7C-8AE9-4911-9E15-4836C3D2D83B"
+    }
+  ],
+  "name": "Profile Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "FC68D85E-E766-4B64-A06D-F6738EB9B141",
+      "opacity": 0.8
+    },
+    "do_objectID": "BAAB5348-17B3-478C-A23D-A0FF70DC4717",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

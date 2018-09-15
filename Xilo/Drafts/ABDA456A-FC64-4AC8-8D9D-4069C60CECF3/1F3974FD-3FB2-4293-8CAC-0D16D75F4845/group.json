@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1F3974FD-3FB2-4293-8CAC-0D16D75F4845",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A77B81CE-F1D2-45A4-B638-E2EA122F298C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5F552D4-2BAD-40A2-B7E9-84E788ABE064",
+    "height": 468,
+    "width": 167,
+    "x": 148,
+    "y": 187
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "701A4AAB-B026-4AE3-B9C2-52C548D0CA77"
+    },
+    {
+      "class": "text",
+      "id": "9CE818CF-92B3-47B1-99B8-E4F9EAB007CD"
+    },
+    {
+      "class": "text",
+      "id": "B496BB06-3F0E-4345-A2D3-99F0696941E7"
+    }
+  ],
+  "name": "Team Analytics Side Nav",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D1E63DB-696C-4DA8-8629-C05C4AC0DD51",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

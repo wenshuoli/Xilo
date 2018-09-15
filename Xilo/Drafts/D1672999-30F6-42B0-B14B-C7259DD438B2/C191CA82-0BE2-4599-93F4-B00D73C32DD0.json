@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C191CA82-0BE2-4599-93F4-B00D73C32DD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BBEED40-798B-4347-A8FA-F94DA7A660A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "980A6E0F-3582-41FA-AFF2-FFA1755CB2C0",
+    "height": 259,
+    "width": 304,
+    "x": 503,
+    "y": 1013
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3d2748a01a989b90fe28416d8778fc98074896de.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Analytics Team Leads Overview One Graph Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A24A1E6-B6D8-4813-8996-E8FAB103BA41",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

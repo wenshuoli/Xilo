@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F6C2FF0A-CC2A-464E-991F-0C401866D3CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B822815D-F045-4475-96B6-BA7BE9E145F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66F8AC26-C2F7-4EEF-B337-FD0CA6C36BFD",
+    "height": 96,
+    "width": 824,
+    "x": 418,
+    "y": 894
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Nav",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A83246D-EAC1-4623-9B68-C0ADEAC72CFE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BE09B2C5-EE3C-416B-8633-D2FDAB0F1D4A",
+  "verticalSpacing": 0
+}

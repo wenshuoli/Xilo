@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2BAE8734-435D-455D-A324-40C58F31CFB7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "E48FE7E4-36BA-419A-A15E-17A9925C1077",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0671C6C-2388-4C25-96CD-2FDB4180B730",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21FBF418-9834-419D-8E9F-D6F8E2247860",
+    "height": 888,
+    "width": 1366,
+    "x": 2451,
+    "y": 1336
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "EF917DB3-65AD-4F37-9886-A0D0449664AD",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "06EDDC6B-C30E-4491-9295-15379270C6EE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "01B8AF0A-4D24-41D6-9C22-D4A2C345A88D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A48B362-51B9-46AF-8471-A04D34C7267E"
+    },
+    {
+      "class": "group",
+      "id": "7C5365CD-F499-4C2C-892F-8C2AA3646552"
+    },
+    {
+      "class": "group",
+      "id": "1710D77F-A803-447C-987A-FD73F3F0F27B"
+    },
+    {
+      "class": "group",
+      "id": "AB9C97DF-F91E-437A-AC2B-DF1511753671"
+    },
+    {
+      "class": "text",
+      "id": "EE9902DA-3C41-46FB-890F-F803B6017320"
+    },
+    {
+      "class": "group",
+      "id": "313F2E89-0C3B-4E1A-BB94-4D8D6C81F3D9"
+    },
+    {
+      "class": "text",
+      "id": "31B3015E-2693-4F99-A452-9438462A624C"
+    },
+    {
+      "class": "text",
+      "id": "3D4437D2-834F-4BA0-AB60-D540D9243A77"
+    },
+    {
+      "class": "text",
+      "id": "86CDF52A-BBAA-47C4-83B6-BEAB8B622063"
+    },
+    {
+      "class": "group",
+      "id": "539762CD-EB0F-412C-A262-16AB1DA6E23E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F7767DD-9D86-4168-A0F6-9CC21DABF555"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A70D789-FD43-42A8-B42F-762B95D5F444"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44698F7F-5BE0-472B-B813-1AF5C1C69B08"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "do_objectID": "C69498DA-993A-4888-AB4D-2701FC23B733",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21.81818181818182,
+    "guttersOutside": false,
+    "horizontalOffset": 83,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "Analytics Team Leads Quotes",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79B14E15-6CAA-4D4E-9FF9-3131B8FD48D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6ADF95B9-0A94-4E0D-AFE8-337E02DEA4EE",
+    "guides": [
+    ]
+  }
+}

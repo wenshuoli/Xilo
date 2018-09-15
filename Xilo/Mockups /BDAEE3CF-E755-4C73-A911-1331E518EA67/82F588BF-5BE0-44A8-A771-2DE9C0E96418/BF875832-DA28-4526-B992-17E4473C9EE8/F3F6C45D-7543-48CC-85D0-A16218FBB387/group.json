@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F3F6C45D-7543-48CC-85D0-A16218FBB387",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2D8A6FD-7AF1-4AB7-906D-D89B03E54931",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "946EAC4E-C341-446F-9905-B251F71B846F",
+    "height": 8,
+    "width": 426,
+    "x": 80.75105570145166,
+    "y": 251.988543550427
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0A151483-B3C6-4C8C-AD1A-2A0B9F59523C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC38E414-8429-449A-8106-67AADA26A65F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB5629E3-3F42-406D-B93F-0B0BBAECA1CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B90F9F1-BB86-446B-8497-F28BA1C1FD24"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "410E81D5-3270-440B-A9DE-65CF231E1AF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62AF391E-1FB2-4C43-859B-CA3513AAC10C"
+    }
+  ],
+  "name": "lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A6CB540B-386F-4A21-AA7C-60AFD85AEDDD",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4,
+      "type": 0
+    },
+    "do_objectID": "8350F5AE-D902-46C1-AF01-77472E5576CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "4BB8CB3A-DC86-4DAB-A834-81F66F083EF8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "y": 292
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,10 +44,6 @@
       "value": "awesome@ucsd.edu"
     }
   ],
-  "overrides": {
-    "25277889-36E7-47B0-BD68-6056566E71E8": "Email",
-    "E375308F-4B42-4E24-B5EB-407EE3CD0946": "awesome@ucsd.edu"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -54,9 +52,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "034113EC-218D-42D4-86B8-38C59C42ADAB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "E20FFC33-9095-4DB8-8E15-BFC725DC3B4E",
   "verticalSpacing": 0

@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3355CB0A-C2D1-4D20-9259-654B956F9B85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1045CF53-C0C3-48F7-A50E-6359E4DB2006",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E7D46C39-E03F-4139-A591-B981AE6EE632",
+    "height": 64,
+    "width": 133,
+    "x": 121,
+    "y": 425
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "400D47C3-1BDF-493C-94E7-DCF8207ADFB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C839475-1CA1-41F1-9B4E-64A2C59E5CDB"
+    },
+    {
+      "class": "text",
+      "id": "2F303CFD-A4C1-438A-B758-7A3D8A84851B"
+    }
+  ],
+  "name": "PROPERTY#64D02DF2-5E0A-4E7E-8DCF-A6A333DF39A5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78D882D6-A183-4E4F-B2CD-E528CBAF5015",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 64,
+            "enabled": 1,
+            "modelID": "constraint_f12eadef-1b98-417e-9f93-3ce6eca88103",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 133
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7845213e-4283-44f6-8ab6-725f2af28e5e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.utom.measure": {
+      "SMConfigs2": "{\"placement\":\"right\",\"timestamp\":1525751884385}"
+    }
+  }
+}

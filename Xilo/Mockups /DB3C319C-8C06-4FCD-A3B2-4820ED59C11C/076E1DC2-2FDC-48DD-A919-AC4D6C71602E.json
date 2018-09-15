@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "076E1DC2-2FDC-48DD-A919-AC4D6C71602E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "y": 404
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -36,9 +38,6 @@
       "value": "Change Logo"
     }
   ],
-  "overrides": {
-    "46E17D68-468E-459A-A465-D3B40931AE56": "Change Logo"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,9 +46,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "77DA6BA0-CAF9-471D-8820-3F99C91A2F5F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "BD3FF2AA-5FA7-4B83-8798-245D06D36A43",
   "verticalSpacing": 0

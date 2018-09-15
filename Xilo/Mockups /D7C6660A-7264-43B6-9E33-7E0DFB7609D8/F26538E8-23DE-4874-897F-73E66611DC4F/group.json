@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F26538E8-23DE-4874-897F-73E66611DC4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E02E7DF-E52E-445D-9673-B3DA2AEA41E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6392959-B704-4D26-8857-DB883E08F5E9",
+    "height": 420,
+    "width": 167,
+    "x": 148,
+    "y": 188
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "138AA577-DD82-411E-A783-EE2B0AE2338E"
+    },
+    {
+      "class": "text",
+      "id": "8D08052C-4E28-49F6-B104-FB64A57D09CF"
+    },
+    {
+      "class": "text",
+      "id": "DB195EA3-CF93-4D21-B8D6-C2D4CFAF036F"
+    }
+  ],
+  "name": "Team Analytics Side Nav",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBC428ED-5F21-4107-BA61-40B66700DB43",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

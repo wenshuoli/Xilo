@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "A1C41930-8ABC-4D33-B669-3C77CB7D0BD4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "y": 784
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -54,12 +56,6 @@
       "value": "June"
     }
   ],
-  "overrides": {
-    "AB5222D1-2A66-42FF-9BD3-589C5F6BC196": "July",
-    "CDDD2F92-6E5A-477D-A352-117BB5555BEF": "June",
-    "D59B1762-65F2-4901-ADA9-4D5F54AD8AB2": "Apr",
-    "E3191DB6-4954-45AE-9427-15B3C81CAC49": "May"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -68,9 +64,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "B9CF5FF5-5FCB-49FA-A79B-D8A917FD41B4",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "8968F5A8-C6FF-48FD-91AD-C803F49F9926",
   "verticalSpacing": 0

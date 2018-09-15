@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "6756EDC6-740C-45C1-BA17-02A1331D03A7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,10 +16,11 @@
     "constrainProportions": false,
     "height": 48,
     "width": 287,
-    "x": 232,
+    "x": 231,
     "y": 50
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -34,9 +36,6 @@
       "value": "A to Z Insurance"
     }
   ],
-  "overrides": {
-    "04796081-BB10-4367-8F8C-4CAC0D9CAB1A": "A to Z Insurance"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -44,9 +43,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "3FD4D44C-9D66-4335-9CFD-DE1F83367923",
   "userInfo": {
